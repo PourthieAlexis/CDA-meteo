@@ -15,7 +15,7 @@ Pour lancer le projet localement sur votre machine, suivez les étapes ci-dessou
 
 ### Prérequis
 
-Assurez-vous d'avoir Node.js sur votre machine.
+Assurez-vous d'avoir Node.js et Expo CLI installés sur votre machine.
 
 ### Étapes d'installation
 
@@ -36,7 +36,7 @@ Assurez-vous d'avoir Node.js sur votre machine.
 
 ### Lancer l'application
 
-Une fois les dépendances installées, vous pouvez lancer l'application en utilisant Expo CLI :
+Une fois les dépendances installées, vous pouvez lancer l'application en utilisant cette commande :
 
 ```bash
 npm start
